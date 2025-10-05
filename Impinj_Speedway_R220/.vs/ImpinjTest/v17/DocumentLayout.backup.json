@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vashm\\OneDrive\\Documents\\commercial_readers\\Impinj_Speedway_R220\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CECA21-E5F9-44FD-B9E6-7AE5A70AD10E}|ImpinjTest.csproj|c:\\users\\vashm\\onedrive\\documents\\commercial_readers\\impinj_speedway_r220\\magnus_s3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3CECA21-E5F9-44FD-B9E6-7AE5A70AD10E}|ImpinjTest.csproj|solutionrelative:magnus_s3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CECA21-E5F9-44FD-B9E6-7AE5A70AD10E}|ImpinjTest.csproj|c:\\users\\vashm\\onedrive\\documents\\commercial_readers\\impinj_speedway_r220\\impinjtest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C3CECA21-E5F9-44FD-B9E6-7AE5A70AD10E}|ImpinjTest.csproj|solutionrelative:impinjtest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CECA21-E5F9-44FD-B9E6-7AE5A70AD10E}|ImpinjTest.csproj|c:\\users\\vashm\\onedrive\\documents\\commercial_readers\\impinj_speedway_r220\\hydro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3CECA21-E5F9-44FD-B9E6-7AE5A70AD10E}|ImpinjTest.csproj|solutionrelative:hydro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CECA21-E5F9-44FD-B9E6-7AE5A70AD10E}|ImpinjTest.csproj|c:\\users\\vashm\\onedrive\\documents\\commercial_readers\\impinj_speedway_r220\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3CECA21-E5F9-44FD-B9E6-7AE5A70AD10E}|ImpinjTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "magnus_S3.cs",
+              "DocumentMoniker": "C:\\Users\\vashm\\OneDrive\\Documents\\commercial_readers\\Impinj_Speedway_R220\\magnus_S3.cs",
+              "RelativeDocumentMoniker": "magnus_S3.cs",
+              "ToolTip": "C:\\Users\\vashm\\OneDrive\\Documents\\commercial_readers\\Impinj_Speedway_R220\\magnus_S3.cs",
+              "RelativeToolTip": "magnus_S3.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAWwCgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:44:33.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hydro.cs",
+              "DocumentMoniker": "C:\\Users\\vashm\\OneDrive\\Documents\\commercial_readers\\Impinj_Speedway_R220\\hydro.cs",
+              "RelativeDocumentMoniker": "hydro.cs",
+              "ToolTip": "C:\\Users\\vashm\\OneDrive\\Documents\\commercial_readers\\Impinj_Speedway_R220\\hydro.cs",
+              "RelativeToolTip": "hydro.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:43:01.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vashm\\OneDrive\\Documents\\commercial_readers\\Impinj_Speedway_R220\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vashm\\OneDrive\\Documents\\commercial_readers\\Impinj_Speedway_R220\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:48:04.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImpinjTest",
+              "DocumentMoniker": "C:\\Users\\vashm\\OneDrive\\Documents\\commercial_readers\\Impinj_Speedway_R220\\ImpinjTest.csproj",
+              "RelativeDocumentMoniker": "ImpinjTest.csproj",
+              "ToolTip": "C:\\Users\\vashm\\OneDrive\\Documents\\commercial_readers\\Impinj_Speedway_R220\\ImpinjTest.csproj",
+              "RelativeToolTip": "ImpinjTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T08:31:03.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
