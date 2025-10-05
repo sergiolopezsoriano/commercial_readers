@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImpinjTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4063c9f8f5619839b6865d695417a7b91d7638ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e63a7ed441afc993007fa66b67a66d57b94086e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImpinjTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImpinjTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
