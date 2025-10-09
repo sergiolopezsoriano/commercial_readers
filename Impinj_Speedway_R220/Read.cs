@@ -3,7 +3,7 @@
 using System;
 using Impinj.OctaneSdk;
 
-class Program
+class Read
 {
     static ImpinjReader reader = new ImpinjReader();
 

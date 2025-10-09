@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>R220.EM4152</StartupObject>
+    <StartupObject>MagnusS3Reader</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

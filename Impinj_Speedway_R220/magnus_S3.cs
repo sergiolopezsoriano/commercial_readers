@@ -7,7 +7,7 @@ using System.Collections.Generic;
 class MagnusS3Reader
 {
     static ImpinjReader reader = new ImpinjReader();
-    static string targetEpc = "E282403D000203DB0478AEB7"; // Default value, can be overwritten by argument
+    static string targetEpc = "E282403D000203DB0478B057"; // Default value, can be overwritten by argument
 
     static List<(int count, string epc, double freq, int sensor, long timestampMs)> readings = new List<(int, string, double, int, long)>();
     static bool found = false;
@@ -28,11 +28,11 @@ class MagnusS3Reader
             Console.WriteLine();
             Console.WriteLine("Arguments:");
             Console.WriteLine("  ip          IP address of the Impinj reader (default: 169.254.116.164)");
-            Console.WriteLine("  epc         EPC of the Magnus S3 tag to measure (default: E282403D000203DB0478AEB7)");
+            Console.WriteLine("  epc         EPC of the Magnus S3 tag to measure (default: E282403D000203DB0478B057)");
             Console.WriteLine("  timeout_s   Maximum wait time in seconds (default: 15)");
             Console.WriteLine();
             Console.WriteLine("Example:");
-            Console.WriteLine($"  {exeName} 192.168.1.100 E282403D000203DB0478AEB7 20");
+            Console.WriteLine($"  {exeName} 192.168.1.100 E282403D000203DB0478B057 20");
             return;
         }
 
@@ -78,7 +78,7 @@ class MagnusS3Reader
             // Define Magnus S3 read operation
             TagReadOp readSensorCodeOp = new TagReadOp();
             readSensorCodeOp.MemoryBank = MemoryBank.Reserved;
-            readSensorCodeOp.WordPointer = 0xB; // Typical Magnus S3 address
+            readSensorCodeOp.WordPointer = 0xC; // Typical Magnus S3 address
             readSensorCodeOp.WordCount = 1;
 
             settings.Report.OptimizedReadOps.Add(readSensorCodeOp);
